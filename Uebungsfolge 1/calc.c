@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-int not_main1(void) {
+int startCalc(void) {
     double operand1 = 0;
     double operand2 = 0;
     char operator = ' ';

@@ -118,29 +118,125 @@ Uebungen\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\build
 .PHONY : Uebungen\fast
 
-Uebungsfolge_1\Test.obj: Uebungsfolge_1\Test.c.obj
-.PHONY : Uebungsfolge_1\Test.obj
+Uebungsfolge_1\Kapita.obj: Uebungsfolge_1\Kapita.c.obj
+.PHONY : Uebungsfolge_1\Kapita.obj
 
 # target to build an object file
-Uebungsfolge_1\Test.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.obj
-.PHONY : Uebungsfolge_1\Test.c.obj
+Uebungsfolge_1\Kapita.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\Kapita.c.obj
+.PHONY : Uebungsfolge_1\Kapita.c.obj
 
-Uebungsfolge_1\Test.i: Uebungsfolge_1\Test.c.i
-.PHONY : Uebungsfolge_1\Test.i
+Uebungsfolge_1\Kapita.i: Uebungsfolge_1\Kapita.c.i
+.PHONY : Uebungsfolge_1\Kapita.i
 
 # target to preprocess a source file
-Uebungsfolge_1\Test.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.i
-.PHONY : Uebungsfolge_1\Test.c.i
+Uebungsfolge_1\Kapita.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\Kapita.c.i
+.PHONY : Uebungsfolge_1\Kapita.c.i
 
-Uebungsfolge_1\Test.s: Uebungsfolge_1\Test.c.s
-.PHONY : Uebungsfolge_1\Test.s
+Uebungsfolge_1\Kapita.s: Uebungsfolge_1\Kapita.c.s
+.PHONY : Uebungsfolge_1\Kapita.s
 
 # target to generate assembly for a file
-Uebungsfolge_1\Test.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.s
-.PHONY : Uebungsfolge_1\Test.c.s
+Uebungsfolge_1\Kapita.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\Kapita.c.s
+.PHONY : Uebungsfolge_1\Kapita.c.s
+
+Uebungsfolge_1\calc.obj: Uebungsfolge_1\calc.c.obj
+.PHONY : Uebungsfolge_1\calc.obj
+
+# target to build an object file
+Uebungsfolge_1\calc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\calc.c.obj
+.PHONY : Uebungsfolge_1\calc.c.obj
+
+Uebungsfolge_1\calc.i: Uebungsfolge_1\calc.c.i
+.PHONY : Uebungsfolge_1\calc.i
+
+# target to preprocess a source file
+Uebungsfolge_1\calc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\calc.c.i
+.PHONY : Uebungsfolge_1\calc.c.i
+
+Uebungsfolge_1\calc.s: Uebungsfolge_1\calc.c.s
+.PHONY : Uebungsfolge_1\calc.s
+
+# target to generate assembly for a file
+Uebungsfolge_1\calc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\calc.c.s
+.PHONY : Uebungsfolge_1\calc.c.s
+
+Uebungsfolge_1\sizes.obj: Uebungsfolge_1\sizes.c.obj
+.PHONY : Uebungsfolge_1\sizes.obj
+
+# target to build an object file
+Uebungsfolge_1\sizes.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\sizes.c.obj
+.PHONY : Uebungsfolge_1\sizes.c.obj
+
+Uebungsfolge_1\sizes.i: Uebungsfolge_1\sizes.c.i
+.PHONY : Uebungsfolge_1\sizes.i
+
+# target to preprocess a source file
+Uebungsfolge_1\sizes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\sizes.c.i
+.PHONY : Uebungsfolge_1\sizes.c.i
+
+Uebungsfolge_1\sizes.s: Uebungsfolge_1\sizes.c.s
+.PHONY : Uebungsfolge_1\sizes.s
+
+# target to generate assembly for a file
+Uebungsfolge_1\sizes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\sizes.c.s
+.PHONY : Uebungsfolge_1\sizes.c.s
+
+Uebungsfolge_1\zahlen.obj: Uebungsfolge_1\zahlen.c.obj
+.PHONY : Uebungsfolge_1\zahlen.obj
+
+# target to build an object file
+Uebungsfolge_1\zahlen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\zahlen.c.obj
+.PHONY : Uebungsfolge_1\zahlen.c.obj
+
+Uebungsfolge_1\zahlen.i: Uebungsfolge_1\zahlen.c.i
+.PHONY : Uebungsfolge_1\zahlen.i
+
+# target to preprocess a source file
+Uebungsfolge_1\zahlen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\zahlen.c.i
+.PHONY : Uebungsfolge_1\zahlen.c.i
+
+Uebungsfolge_1\zahlen.s: Uebungsfolge_1\zahlen.c.s
+.PHONY : Uebungsfolge_1\zahlen.s
+
+# target to generate assembly for a file
+Uebungsfolge_1\zahlen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\zahlen.c.s
+.PHONY : Uebungsfolge_1\zahlen.c.s
+
+Uebungsfolge_2\Folge_2.obj: Uebungsfolge_2\Folge_2.c.obj
+.PHONY : Uebungsfolge_2\Folge_2.obj
+
+# target to build an object file
+Uebungsfolge_2\Folge_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_2\Folge_2.c.obj
+.PHONY : Uebungsfolge_2\Folge_2.c.obj
+
+Uebungsfolge_2\Folge_2.i: Uebungsfolge_2\Folge_2.c.i
+.PHONY : Uebungsfolge_2\Folge_2.i
+
+# target to preprocess a source file
+Uebungsfolge_2\Folge_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_2\Folge_2.c.i
+.PHONY : Uebungsfolge_2\Folge_2.c.i
+
+Uebungsfolge_2\Folge_2.s: Uebungsfolge_2\Folge_2.c.s
+.PHONY : Uebungsfolge_2\Folge_2.s
+
+# target to generate assembly for a file
+Uebungsfolge_2\Folge_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_2\Folge_2.c.s
+.PHONY : Uebungsfolge_2\Folge_2.c.s
 
 Uebungsfolge_4\matrix.obj: Uebungsfolge_4\matrix.c.obj
 .PHONY : Uebungsfolge_4\matrix.obj
@@ -343,9 +439,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Uebungen
-	@echo ... Uebungsfolge_1/Test.obj
-	@echo ... Uebungsfolge_1/Test.i
-	@echo ... Uebungsfolge_1/Test.s
+	@echo ... Uebungsfolge_1/Kapita.obj
+	@echo ... Uebungsfolge_1/Kapita.i
+	@echo ... Uebungsfolge_1/Kapita.s
+	@echo ... Uebungsfolge_1/calc.obj
+	@echo ... Uebungsfolge_1/calc.i
+	@echo ... Uebungsfolge_1/calc.s
+	@echo ... Uebungsfolge_1/sizes.obj
+	@echo ... Uebungsfolge_1/sizes.i
+	@echo ... Uebungsfolge_1/sizes.s
+	@echo ... Uebungsfolge_1/zahlen.obj
+	@echo ... Uebungsfolge_1/zahlen.i
+	@echo ... Uebungsfolge_1/zahlen.s
+	@echo ... Uebungsfolge_2/Folge_2.obj
+	@echo ... Uebungsfolge_2/Folge_2.i
+	@echo ... Uebungsfolge_2/Folge_2.s
 	@echo ... Uebungsfolge_4/matrix.obj
 	@echo ... Uebungsfolge_4/matrix.i
 	@echo ... Uebungsfolge_4/matrix.s

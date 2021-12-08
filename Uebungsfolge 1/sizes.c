@@ -1,7 +1,7 @@
 #include "stdio.h"
 
 
-int not_main0(void) {
+int startSizes(void) {
     printf("Size of char: %d\n", sizeof(char));
     printf("Size of int: %d\n", sizeof(int));
     printf("Size of float: %d\n", sizeof(float));

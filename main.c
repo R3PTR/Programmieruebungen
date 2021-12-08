@@ -4,5 +4,5 @@ void startWordcount();
 void startStructurUebung();
 
 int main() {
-    startStructurUebung();
+
 }

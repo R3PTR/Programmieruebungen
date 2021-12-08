@@ -82,7 +82,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/Test.c">
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/Kapita.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/calc.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/sizes.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/zahlen.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 2/Folge 2.c">
 			<Option target="Uebungen"/>
 		</Unit>
 		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/matrix.c">

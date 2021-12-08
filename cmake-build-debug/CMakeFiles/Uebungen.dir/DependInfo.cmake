@@ -8,7 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/Test.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_1/Test.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/Kapita.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_1/Kapita.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/calc.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_1/calc.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/sizes.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_1/sizes.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/zahlen.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_1/zahlen.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 2/Folge 2.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_2/Folge_2.c.obj"
   "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/matrix.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_4/matrix.c.obj"
   "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/notenverwaltung.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_4/notenverwaltung.c.obj"
   "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/structs.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_4/structs.c.obj"

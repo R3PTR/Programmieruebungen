@@ -10,7 +10,7 @@ float kapitalwert(float kapital, int jahre, float zinssatz){
     //return kapital * pow(1 + zinssatz, jahre);
 }
 
-int main(void){
+int startKapita(void){
     float kapital = kapitalwert(1400.0,8,0.02);
     printf("Das Kapital betraegt € %5.2f .",kapital);
 }
