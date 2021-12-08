@@ -8,11 +8,17 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/levin/CLionProjects/Uebungen/Uebungsfolge 5/datum.c" "/Users/levin/CLionProjects/Uebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_5/datum.c.o"
-  "/Users/levin/CLionProjects/Uebungen/Uebungsfolge 5/wordcount.c" "/Users/levin/CLionProjects/Uebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_5/wordcount.c.o"
-  "/Users/levin/CLionProjects/Uebungen/main.c" "/Users/levin/CLionProjects/Uebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/main.c.o"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_1.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/matrix.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_4/matrix.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/notenverwaltung.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_4/notenverwaltung.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/structs.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_4/structs.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 5/datum.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_5/datum.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 5/wordcount.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_5/wordcount.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsklausur/Schach.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsklausur/Schach.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsklausur/structuebung.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsklausur/structuebung.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/main.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/main.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "AppleClang")
+set(CMAKE_C_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

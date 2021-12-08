@@ -1,8 +1,16 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Uebungen.dir/Uebungsfolge_5/datum.c.o"
-  "CMakeFiles/Uebungen.dir/Uebungsfolge_5/wordcount.c.o"
-  "CMakeFiles/Uebungen.dir/main.c.o"
-  "Uebungen"
+  "CMakeFiles/Uebungen.dir/Uebungsfolge_1.c.obj"
+  "CMakeFiles/Uebungen.dir/Uebungsfolge_4/matrix.c.obj"
+  "CMakeFiles/Uebungen.dir/Uebungsfolge_4/notenverwaltung.c.obj"
+  "CMakeFiles/Uebungen.dir/Uebungsfolge_4/structs.c.obj"
+  "CMakeFiles/Uebungen.dir/Uebungsfolge_5/datum.c.obj"
+  "CMakeFiles/Uebungen.dir/Uebungsfolge_5/wordcount.c.obj"
+  "CMakeFiles/Uebungen.dir/Uebungsklausur/Schach.c.obj"
+  "CMakeFiles/Uebungen.dir/Uebungsklausur/structuebung.c.obj"
+  "CMakeFiles/Uebungen.dir/main.c.obj"
+  "Uebungen.exe"
+  "Uebungen.exe.manifest"
+  "Uebungen.lib"
   "Uebungen.pdb"
 )
 

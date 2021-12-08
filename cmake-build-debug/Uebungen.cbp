@@ -4,88 +4,112 @@
 	<Project>
 		<Option title="Uebungen"/>
 		<Option makefile_is_custom="1"/>
-		<Option compiler="gcc"/>
+		<Option compiler="msvc8"/>
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/levin/CLionProjects/Uebungen/cmake-build-debug"/>
+				<Option working_dir="C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/Users/levin/CLionProjects/Uebungen/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/Users/levin/CLionProjects/Uebungen/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Uebungen">
-				<Option output="/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Uebungen" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/levin/CLionProjects/Uebungen/cmake-build-debug"/>
+				<Option output="C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/Uebungen.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="D:\VCS\VC\Tools\MSVC\14.30.30705\ATLMFC\include"/>
+					<Add directory="D:\VCS\VC\Tools\MSVC\14.30.30705\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 Uebungen"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 Uebungen"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Uebungen/fast">
-				<Option output="/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Uebungen" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/levin/CLionProjects/Uebungen/cmake-build-debug"/>
+				<Option output="C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/Uebungen.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="D:\VCS\VC\Tools\MSVC\14.30.30705\ATLMFC\include"/>
+					<Add directory="D:\VCS\VC\Tools\MSVC\14.30.30705\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 Uebungen/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/levin/CLionProjects/Uebungen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 Uebungen/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/levin/CLionProjects/Uebungen/Uebungsfolge 5/datum.c">
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1.c">
 			<Option target="Uebungen"/>
 		</Unit>
-		<Unit filename="/Users/levin/CLionProjects/Uebungen/Uebungsfolge 5/wordcount.c">
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/matrix.c">
 			<Option target="Uebungen"/>
 		</Unit>
-		<Unit filename="/Users/levin/CLionProjects/Uebungen/main.c">
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/notenverwaltung.c">
 			<Option target="Uebungen"/>
 		</Unit>
-		<Unit filename="/Users/levin/CLionProjects/Uebungen/CMakeLists.txt">
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/structs.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 5/datum.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 5/wordcount.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsklausur/Schach.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsklausur/structuebung.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/main.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
