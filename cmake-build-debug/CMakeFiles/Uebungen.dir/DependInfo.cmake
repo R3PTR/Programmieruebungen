@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_1.c.obj"
+  "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 1/Test.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_1/Test.c.obj"
   "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/matrix.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_4/matrix.c.obj"
   "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/notenverwaltung.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_4/notenverwaltung.c.obj"
   "C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/structs.c" "C:/Users/levin/CLionProjects/Programmieruebungen/cmake-build-debug/CMakeFiles/Uebungen.dir/Uebungsfolge_4/structs.c.obj"

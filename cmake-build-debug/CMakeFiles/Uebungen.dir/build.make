@@ -207,23 +207,23 @@ CMakeFiles\Uebungen.dir\Uebungsklausur\structuebung.c.s: cmake_force
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Uebungen.dir\Uebungsklausur\structuebung.c.s /c C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsklausur\structuebung.c
 <<
 
-CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.obj: CMakeFiles\Uebungen.dir\flags.make
-CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.obj: "..\Uebungsfolge 1.c"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Uebungen.dir/Uebungsfolge_1.c.obj"
+CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.obj: CMakeFiles\Uebungen.dir\flags.make
+CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.obj: "..\Uebungsfolge 1\Test.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Uebungen.dir/Uebungsfolge_1/Test.c.obj"
 	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Uebungen.dir\Uebungsfolge_1.c.obj /FdCMakeFiles\Uebungen.dir\ /FS -c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 1.c"
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.obj /FdCMakeFiles\Uebungen.dir\ /FS -c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 1\Test.c"
 <<
 
-CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Uebungen.dir/Uebungsfolge_1.c.i"
-	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe > CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 1.c"
+CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Uebungen.dir/Uebungsfolge_1/Test.c.i"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe > CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 1\Test.c"
 <<
 
-CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Uebungen.dir/Uebungsfolge_1.c.s"
+CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Uebungen.dir/Uebungsfolge_1/Test.c.s"
 	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Uebungen.dir\Uebungsfolge_1.c.s /c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 1.c"
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.s /c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 1\Test.c"
 <<
 
 # Object files for target Uebungen
@@ -236,7 +236,7 @@ Uebungen_OBJECTS = \
 "CMakeFiles\Uebungen.dir\Uebungsfolge_4\structs.c.obj" \
 "CMakeFiles\Uebungen.dir\Uebungsklausur\Schach.c.obj" \
 "CMakeFiles\Uebungen.dir\Uebungsklausur\structuebung.c.obj" \
-"CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.obj"
+"CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.obj"
 
 # External object files for target Uebungen
 Uebungen_EXTERNAL_OBJECTS =
@@ -249,7 +249,7 @@ Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_4\matrix.c.obj
 Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_4\structs.c.obj
 Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsklausur\Schach.c.obj
 Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsklausur\structuebung.c.obj
-Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.obj
+Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.obj
 Uebungen.exe: CMakeFiles\Uebungen.dir\build.make
 Uebungen.exe: CMakeFiles\Uebungen.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable Uebungen.exe"

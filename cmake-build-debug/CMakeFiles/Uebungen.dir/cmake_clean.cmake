@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Uebungen.dir/Uebungsfolge_1.c.obj"
+  "CMakeFiles/Uebungen.dir/Uebungsfolge_1/Test.c.obj"
   "CMakeFiles/Uebungen.dir/Uebungsfolge_4/matrix.c.obj"
   "CMakeFiles/Uebungen.dir/Uebungsfolge_4/notenverwaltung.c.obj"
   "CMakeFiles/Uebungen.dir/Uebungsfolge_4/structs.c.obj"

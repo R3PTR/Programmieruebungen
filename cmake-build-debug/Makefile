@@ -118,29 +118,29 @@ Uebungen\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\build
 .PHONY : Uebungen\fast
 
-Uebungsfolge_1.obj: Uebungsfolge_1.c.obj
-.PHONY : Uebungsfolge_1.obj
+Uebungsfolge_1\Test.obj: Uebungsfolge_1\Test.c.obj
+.PHONY : Uebungsfolge_1\Test.obj
 
 # target to build an object file
-Uebungsfolge_1.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.obj
-.PHONY : Uebungsfolge_1.c.obj
+Uebungsfolge_1\Test.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.obj
+.PHONY : Uebungsfolge_1\Test.c.obj
 
-Uebungsfolge_1.i: Uebungsfolge_1.c.i
-.PHONY : Uebungsfolge_1.i
+Uebungsfolge_1\Test.i: Uebungsfolge_1\Test.c.i
+.PHONY : Uebungsfolge_1\Test.i
 
 # target to preprocess a source file
-Uebungsfolge_1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.i
-.PHONY : Uebungsfolge_1.c.i
+Uebungsfolge_1\Test.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.i
+.PHONY : Uebungsfolge_1\Test.c.i
 
-Uebungsfolge_1.s: Uebungsfolge_1.c.s
-.PHONY : Uebungsfolge_1.s
+Uebungsfolge_1\Test.s: Uebungsfolge_1\Test.c.s
+.PHONY : Uebungsfolge_1\Test.s
 
 # target to generate assembly for a file
-Uebungsfolge_1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1.c.s
-.PHONY : Uebungsfolge_1.c.s
+Uebungsfolge_1\Test.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_1\Test.c.s
+.PHONY : Uebungsfolge_1\Test.c.s
 
 Uebungsfolge_4\matrix.obj: Uebungsfolge_4\matrix.c.obj
 .PHONY : Uebungsfolge_4\matrix.obj
@@ -343,9 +343,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Uebungen
-	@echo ... Uebungsfolge_1.obj
-	@echo ... Uebungsfolge_1.i
-	@echo ... Uebungsfolge_1.s
+	@echo ... Uebungsfolge_1/Test.obj
+	@echo ... Uebungsfolge_1/Test.i
+	@echo ... Uebungsfolge_1/Test.s
 	@echo ... Uebungsfolge_4/matrix.obj
 	@echo ... Uebungsfolge_4/matrix.i
 	@echo ... Uebungsfolge_4/matrix.s
