@@ -97,6 +97,18 @@
 		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 2/Folge 2.c">
 			<Option target="Uebungen"/>
 		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 3/3-4.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 3/3-5.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 3/Bedingungsoperator.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 3/Teilbarkeit.c">
+			<Option target="Uebungen"/>
+		</Unit>
 		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsfolge 4/matrix.c">
 			<Option target="Uebungen"/>
 		</Unit>
@@ -113,6 +125,9 @@
 			<Option target="Uebungen"/>
 		</Unit>
 		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsklausur/Schach.c">
+			<Option target="Uebungen"/>
+		</Unit>
+		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsklausur/Uhrzeit.c">
 			<Option target="Uebungen"/>
 		</Unit>
 		<Unit filename="C:/Users/levin/CLionProjects/Programmieruebungen/Uebungsklausur/structuebung.c">

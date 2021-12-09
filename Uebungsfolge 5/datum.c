@@ -22,7 +22,6 @@ void startDatum() {
     getMonatsname(date, monat);
     printf("%s\n", monat);
 }
-
 int getTag(Datum date) {
     char tag[2];
     tag[0] = date[0];

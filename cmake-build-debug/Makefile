@@ -238,6 +238,102 @@ Uebungsfolge_2\Folge_2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_2\Folge_2.c.s
 .PHONY : Uebungsfolge_2\Folge_2.c.s
 
+Uebungsfolge_3\3-4.obj: Uebungsfolge_3\3-4.c.obj
+.PHONY : Uebungsfolge_3\3-4.obj
+
+# target to build an object file
+Uebungsfolge_3\3-4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.obj
+.PHONY : Uebungsfolge_3\3-4.c.obj
+
+Uebungsfolge_3\3-4.i: Uebungsfolge_3\3-4.c.i
+.PHONY : Uebungsfolge_3\3-4.i
+
+# target to preprocess a source file
+Uebungsfolge_3\3-4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.i
+.PHONY : Uebungsfolge_3\3-4.c.i
+
+Uebungsfolge_3\3-4.s: Uebungsfolge_3\3-4.c.s
+.PHONY : Uebungsfolge_3\3-4.s
+
+# target to generate assembly for a file
+Uebungsfolge_3\3-4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.s
+.PHONY : Uebungsfolge_3\3-4.c.s
+
+Uebungsfolge_3\3-5.obj: Uebungsfolge_3\3-5.c.obj
+.PHONY : Uebungsfolge_3\3-5.obj
+
+# target to build an object file
+Uebungsfolge_3\3-5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.obj
+.PHONY : Uebungsfolge_3\3-5.c.obj
+
+Uebungsfolge_3\3-5.i: Uebungsfolge_3\3-5.c.i
+.PHONY : Uebungsfolge_3\3-5.i
+
+# target to preprocess a source file
+Uebungsfolge_3\3-5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.i
+.PHONY : Uebungsfolge_3\3-5.c.i
+
+Uebungsfolge_3\3-5.s: Uebungsfolge_3\3-5.c.s
+.PHONY : Uebungsfolge_3\3-5.s
+
+# target to generate assembly for a file
+Uebungsfolge_3\3-5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.s
+.PHONY : Uebungsfolge_3\3-5.c.s
+
+Uebungsfolge_3\Bedingungsoperator.obj: Uebungsfolge_3\Bedingungsoperator.c.obj
+.PHONY : Uebungsfolge_3\Bedingungsoperator.obj
+
+# target to build an object file
+Uebungsfolge_3\Bedingungsoperator.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.obj
+.PHONY : Uebungsfolge_3\Bedingungsoperator.c.obj
+
+Uebungsfolge_3\Bedingungsoperator.i: Uebungsfolge_3\Bedingungsoperator.c.i
+.PHONY : Uebungsfolge_3\Bedingungsoperator.i
+
+# target to preprocess a source file
+Uebungsfolge_3\Bedingungsoperator.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.i
+.PHONY : Uebungsfolge_3\Bedingungsoperator.c.i
+
+Uebungsfolge_3\Bedingungsoperator.s: Uebungsfolge_3\Bedingungsoperator.c.s
+.PHONY : Uebungsfolge_3\Bedingungsoperator.s
+
+# target to generate assembly for a file
+Uebungsfolge_3\Bedingungsoperator.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.s
+.PHONY : Uebungsfolge_3\Bedingungsoperator.c.s
+
+Uebungsfolge_3\Teilbarkeit.obj: Uebungsfolge_3\Teilbarkeit.c.obj
+.PHONY : Uebungsfolge_3\Teilbarkeit.obj
+
+# target to build an object file
+Uebungsfolge_3\Teilbarkeit.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.obj
+.PHONY : Uebungsfolge_3\Teilbarkeit.c.obj
+
+Uebungsfolge_3\Teilbarkeit.i: Uebungsfolge_3\Teilbarkeit.c.i
+.PHONY : Uebungsfolge_3\Teilbarkeit.i
+
+# target to preprocess a source file
+Uebungsfolge_3\Teilbarkeit.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.i
+.PHONY : Uebungsfolge_3\Teilbarkeit.c.i
+
+Uebungsfolge_3\Teilbarkeit.s: Uebungsfolge_3\Teilbarkeit.c.s
+.PHONY : Uebungsfolge_3\Teilbarkeit.s
+
+# target to generate assembly for a file
+Uebungsfolge_3\Teilbarkeit.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.s
+.PHONY : Uebungsfolge_3\Teilbarkeit.c.s
+
 Uebungsfolge_4\matrix.obj: Uebungsfolge_4\matrix.c.obj
 .PHONY : Uebungsfolge_4\matrix.obj
 
@@ -382,6 +478,30 @@ Uebungsklausur\Schach.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsklausur\Schach.c.s
 .PHONY : Uebungsklausur\Schach.c.s
 
+Uebungsklausur\Uhrzeit.obj: Uebungsklausur\Uhrzeit.c.obj
+.PHONY : Uebungsklausur\Uhrzeit.obj
+
+# target to build an object file
+Uebungsklausur\Uhrzeit.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.obj
+.PHONY : Uebungsklausur\Uhrzeit.c.obj
+
+Uebungsklausur\Uhrzeit.i: Uebungsklausur\Uhrzeit.c.i
+.PHONY : Uebungsklausur\Uhrzeit.i
+
+# target to preprocess a source file
+Uebungsklausur\Uhrzeit.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.i
+.PHONY : Uebungsklausur\Uhrzeit.c.i
+
+Uebungsklausur\Uhrzeit.s: Uebungsklausur\Uhrzeit.c.s
+.PHONY : Uebungsklausur\Uhrzeit.s
+
+# target to generate assembly for a file
+Uebungsklausur\Uhrzeit.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Uebungen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.s
+.PHONY : Uebungsklausur\Uhrzeit.c.s
+
 Uebungsklausur\structuebung.obj: Uebungsklausur\structuebung.c.obj
 .PHONY : Uebungsklausur\structuebung.obj
 
@@ -454,6 +574,18 @@ help:
 	@echo ... Uebungsfolge_2/Folge_2.obj
 	@echo ... Uebungsfolge_2/Folge_2.i
 	@echo ... Uebungsfolge_2/Folge_2.s
+	@echo ... Uebungsfolge_3/3-4.obj
+	@echo ... Uebungsfolge_3/3-4.i
+	@echo ... Uebungsfolge_3/3-4.s
+	@echo ... Uebungsfolge_3/3-5.obj
+	@echo ... Uebungsfolge_3/3-5.i
+	@echo ... Uebungsfolge_3/3-5.s
+	@echo ... Uebungsfolge_3/Bedingungsoperator.obj
+	@echo ... Uebungsfolge_3/Bedingungsoperator.i
+	@echo ... Uebungsfolge_3/Bedingungsoperator.s
+	@echo ... Uebungsfolge_3/Teilbarkeit.obj
+	@echo ... Uebungsfolge_3/Teilbarkeit.i
+	@echo ... Uebungsfolge_3/Teilbarkeit.s
 	@echo ... Uebungsfolge_4/matrix.obj
 	@echo ... Uebungsfolge_4/matrix.i
 	@echo ... Uebungsfolge_4/matrix.s
@@ -472,6 +604,9 @@ help:
 	@echo ... Uebungsklausur/Schach.obj
 	@echo ... Uebungsklausur/Schach.i
 	@echo ... Uebungsklausur/Schach.s
+	@echo ... Uebungsklausur/Uhrzeit.obj
+	@echo ... Uebungsklausur/Uhrzeit.i
+	@echo ... Uebungsklausur/Uhrzeit.s
 	@echo ... Uebungsklausur/structuebung.obj
 	@echo ... Uebungsklausur/structuebung.i
 	@echo ... Uebungsklausur/structuebung.s

@@ -302,6 +302,101 @@ CMakeFiles\Uebungen.dir\Uebungsfolge_2\Folge_2.c.s: cmake_force
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Uebungen.dir\Uebungsfolge_2\Folge_2.c.s /c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 2\Folge 2.c"
 <<
 
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.obj: CMakeFiles\Uebungen.dir\flags.make
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.obj: "..\Uebungsfolge 3\Teilbarkeit.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Uebungen.dir/Uebungsfolge_3/Teilbarkeit.c.obj"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.obj /FdCMakeFiles\Uebungen.dir\ /FS -c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\Teilbarkeit.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Uebungen.dir/Uebungsfolge_3/Teilbarkeit.c.i"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe > CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\Teilbarkeit.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Uebungen.dir/Uebungsfolge_3/Teilbarkeit.c.s"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.s /c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\Teilbarkeit.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.obj: CMakeFiles\Uebungen.dir\flags.make
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.obj: "..\Uebungsfolge 3\3-4.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Uebungen.dir/Uebungsfolge_3/3-4.c.obj"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.obj /FdCMakeFiles\Uebungen.dir\ /FS -c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\3-4.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Uebungen.dir/Uebungsfolge_3/3-4.c.i"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe > CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\3-4.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Uebungen.dir/Uebungsfolge_3/3-4.c.s"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.s /c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\3-4.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.obj: CMakeFiles\Uebungen.dir\flags.make
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.obj: "..\Uebungsfolge 3\3-5.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/Uebungen.dir/Uebungsfolge_3/3-5.c.obj"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.obj /FdCMakeFiles\Uebungen.dir\ /FS -c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\3-5.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Uebungen.dir/Uebungsfolge_3/3-5.c.i"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe > CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\3-5.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Uebungen.dir/Uebungsfolge_3/3-5.c.s"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.s /c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\3-5.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.obj: CMakeFiles\Uebungen.dir\flags.make
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.obj: "..\Uebungsfolge 3\Bedingungsoperator.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Uebungen.dir/Uebungsfolge_3/Bedingungsoperator.c.obj"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.obj /FdCMakeFiles\Uebungen.dir\ /FS -c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\Bedingungsoperator.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Uebungen.dir/Uebungsfolge_3/Bedingungsoperator.c.i"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe > CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\Bedingungsoperator.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Uebungen.dir/Uebungsfolge_3/Bedingungsoperator.c.s"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.s /c "C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsfolge 3\Bedingungsoperator.c"
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.obj: CMakeFiles\Uebungen.dir\flags.make
+CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.obj: ..\Uebungsklausur\Uhrzeit.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Uebungen.dir/Uebungsklausur/Uhrzeit.c.obj"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.obj /FdCMakeFiles\Uebungen.dir\ /FS -c C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsklausur\Uhrzeit.c
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Uebungen.dir/Uebungsklausur/Uhrzeit.c.i"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe > CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsklausur\Uhrzeit.c
+<<
+
+CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Uebungen.dir/Uebungsklausur/Uhrzeit.c.s"
+	D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.s /c C:\Users\levin\CLionProjects\Programmieruebungen\Uebungsklausur\Uhrzeit.c
+<<
+
 # Object files for target Uebungen
 Uebungen_OBJECTS = \
 "CMakeFiles\Uebungen.dir\main.c.obj" \
@@ -316,7 +411,12 @@ Uebungen_OBJECTS = \
 "CMakeFiles\Uebungen.dir\Uebungsfolge_4\structs.c.obj" \
 "CMakeFiles\Uebungen.dir\Uebungsklausur\Schach.c.obj" \
 "CMakeFiles\Uebungen.dir\Uebungsklausur\structuebung.c.obj" \
-"CMakeFiles\Uebungen.dir\Uebungsfolge_2\Folge_2.c.obj"
+"CMakeFiles\Uebungen.dir\Uebungsfolge_2\Folge_2.c.obj" \
+"CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.obj" \
+"CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.obj" \
+"CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.obj" \
+"CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.obj" \
+"CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.obj"
 
 # External object files for target Uebungen
 Uebungen_EXTERNAL_OBJECTS =
@@ -334,9 +434,14 @@ Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_4\structs.c.obj
 Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsklausur\Schach.c.obj
 Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsklausur\structuebung.c.obj
 Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_2\Folge_2.c.obj
+Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_3\Teilbarkeit.c.obj
+Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-4.c.obj
+Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_3\3-5.c.obj
+Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsfolge_3\Bedingungsoperator.c.obj
+Uebungen.exe: CMakeFiles\Uebungen.dir\Uebungsklausur\Uhrzeit.c.obj
 Uebungen.exe: CMakeFiles\Uebungen.dir\build.make
 Uebungen.exe: CMakeFiles\Uebungen.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking C executable Uebungen.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking C executable Uebungen.exe"
 	C:\Users\levin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\Uebungen.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- D:\VCS\VC\Tools\MSVC\14.30.30705\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Uebungen.dir\objects1.rsp @<<
  /out:Uebungen.exe /implib:Uebungen.lib /pdb:C:\Users\levin\CLionProjects\Programmieruebungen\cmake-build-debug\Uebungen.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
